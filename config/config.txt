@@ -1,0 +1,2 @@
+VD=2024-06-01
+MD_FOLDER_PATH=market_data/
